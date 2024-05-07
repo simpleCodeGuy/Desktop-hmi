@@ -1,6 +1,6 @@
 # Desktop-hmi  
-<center><a href="https://youtu.be/IvLdoEzT2GM">Video link of working application</a></center>
 It is a desktop application to draw UI elements on screen. These elements can communicate with Modbus-TCP devices in realtime.
+<center><a href="https://youtu.be/IvLdoEzT2GM">Video link of working application</a></center>
 
 ## Status of project
 Implemented
