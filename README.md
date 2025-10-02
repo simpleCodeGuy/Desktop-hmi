@@ -6,7 +6,6 @@ It is a desktop application to draw UI elements on screen. These elements can co
 ## Status of project
 Implemented
 - Drawing UI elements on screen
-- 'modbus-master-isolate', a dart library to act as a modbus master in Modbus/TCP protocol.
 
 Pending
 - Interface of UI elements on screen with Modbus-TCP elements
